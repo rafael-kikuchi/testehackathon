@@ -1,5 +1,13 @@
 h1
 {
-    color: #707070;
+    color: #b1b1b1;
     text-align: center;
+}
+
+#header {
+
+    width:max-content;
+    height:100px;
+    background-color: orange;
+
 }
